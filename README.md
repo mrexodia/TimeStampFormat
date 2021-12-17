@@ -2,7 +2,7 @@
 
 Example plugin to print a timestamp in the log.
 
-`log "[{TimeStamp@0}] test"`
+`log "[{timestamp@0}] test"`
 
 Will print:
 
